@@ -6,7 +6,7 @@ API de Georesearch para la obteción de Puntos de Interés.
 
 	git clone https://github.com/benjaminarteaga/georesearch-api.git
 	cd georesearch-api
-	cp .env-example .env
+	cp .env.example .env
 	composer install
 
 ## Configuración
