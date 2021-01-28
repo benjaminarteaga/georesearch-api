@@ -1,4 +1,4 @@
-## About Laravel
+## Descripción
 
 API de Georesearch para la obteción de Puntos de Interés.
 
